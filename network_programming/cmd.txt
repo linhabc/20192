@@ -1,0 +1,5 @@
+- compile cmd
+javac udp/udpclient.java
+
+- run cmd
+java -cp . udp.udpserver 9876
